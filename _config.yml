@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://username.github.io"
+url: "https://taishi-y.github.io/"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -40,9 +40,9 @@ avatar: "/img/avatar-icon.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Some Person
-  email: "youremail@domain.com"
-  facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
+  email: "taishi.dev@gmail.com"
+  facebook: https://www.facebook.com/taishi.yamasaki.7  # eg. daattali
+  github: https://github.com/Taishi-Y    # eg. daattali
   twitter: yourname   # eg. daattali
   linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
   stackoverflow: yourlink  # eg. "3943160/daattali"
