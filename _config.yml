@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Androider Taishi
+title: Androide Ninja
 
 # Short description of your site
-description: Android is fun!
+description: Android geek stuffs for fun!
 
 # --- Navigation bar options --- #
 
@@ -41,10 +41,10 @@ avatar: "/img/avatar-icon.png"
 author:
   name: Some Person
   email: "taishi.dev@gmail.com"
-  facebook: https://www.facebook.com/taishi.yamasaki.7  # eg. daattali
-  github: https://github.com/Taishi-Y    # eg. daattali
-  twitter: yourname   # eg. daattali
-  linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
+  facebook: taishi.yamasaki.7  # eg. daattali
+  github: Taishi-Y    # eg. daattali
+  twitter: taishi0917   # eg. daattali
+  linkedin: taishi-yamasaki-9b3858b3  # eg. "pub/dean-attali/8/946/143"
   stackoverflow: yourlink  # eg. "3943160/daattali"
  
 # Select which links to show in the footer
@@ -54,12 +54,12 @@ footer-links-active:
   email: true
   twitter: true
   github: true
-  linkedin: false
+  linkedin: true
   stackoverflow: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "taishi-y.me/"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
