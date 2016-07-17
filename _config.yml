@@ -39,7 +39,7 @@ avatar: "/img/profile.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Taishi Yamasaki
   email: "taishi.dev@gmail.com"
   facebook: taishi.yamasaki.7  # eg. daattali
   github: Taishi-Y    # eg. daattali
