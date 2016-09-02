@@ -23,6 +23,7 @@ Here's a useless table:
 How about a yummy crepe?
 
 ![sampleGif1](https://github.com/Taishi-Y/Taishi-Y.github.io/blob/master/img/test.gif?raw=true)
+![sampleGif2](https://github.com/Taishi-Y/Taishi-Y.github.io/blob/master/img/test1.gif?raw=true)
 
 Here's a code chunk:
 
