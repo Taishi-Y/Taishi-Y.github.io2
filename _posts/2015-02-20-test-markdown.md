@@ -22,7 +22,7 @@ Here's a useless table:
 
 How about a yummy crepe?
 
-![Crepe](http://lafenicegelato.com/wp-content/uploads/2014/09/crepes-with-chocolate.jpg)
+![sampleGif1](https://github.com/Taishi-Y/Taishi-Y.github.io/blob/master/img/test.gif?raw=true)
 
 Here's a code chunk:
 
